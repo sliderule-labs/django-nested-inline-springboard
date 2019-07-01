@@ -1,5 +1,5 @@
-django-nested-inline
-====================
+django-nested-inline-springboard
+================================
 
 Nested inline support for Django admin
 
