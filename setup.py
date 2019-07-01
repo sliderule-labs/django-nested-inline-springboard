@@ -2,11 +2,11 @@ from setuptools import setup, find_packages
 
 from nested_inline import __version__
 
-github_url = 'https://github.com/s-block/django-nested-inline'
+github_url = 'https://github.com/sliderule-labs/django-nested-inline-springboard'
 long_desc = open('README.md').read()
 
 setup(
-    name='django-nested-inline',
+    name='django-nested-inline-springboard',
     version='.'.join(str(v) for v in __version__),
     description='Recursive nesting of inline forms for Django Admin',
     long_description=long_desc,
