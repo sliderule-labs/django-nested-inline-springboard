@@ -14,7 +14,7 @@ Github
 Installation
 ------------
 
-pip install django-nested-inline
+pip install django-nested-inline-springboard
 
 
 Usage
